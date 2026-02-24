@@ -1,6 +1,6 @@
 # 🌸 Iris Species Classification: Comparative Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imehdinasiri/Iris-Classification-Analysis/blob/main/iris_classification_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imehdinasiri/Iris-Classification-Analysis/blob/main/Iris_classification_analysis.ipynb)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -60,5 +60,6 @@ If you prefer to run it on your machine:
    ```bash
    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/imehdinasiri/Iris-Classification-Analysis.git)
 2. Install the necessary libraries: pip install pandas numpy matplotlib scikit-learn
+
 
 3. Open the notebook using Jupyter: jupyter notebook iris_classification_analysis.ipynb
