@@ -51,7 +51,7 @@ You can run this project in two ways:
 ### 1. Instant Execution (Cloud)
 The easiest way to explore the analysis is to run it directly in your browser via Google Colab. Click the button below to start:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imehdinasiri/Iris-Classification-Analysis/blob/main/iris_classification_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imehdinasiri/Iris-Classification-Analysis/blob/main/Iris%20Classification%20Analysis/Iris_classification_analysis.ipynb)
 *This will open a private copy of the notebook for you to execute.*
 
 ### 2. Local Execution
@@ -63,4 +63,5 @@ If you prefer to run it on your machine:
 
 
 3. Open the notebook using Jupyter: jupyter notebook iris_classification_analysis.ipynb
+
 
