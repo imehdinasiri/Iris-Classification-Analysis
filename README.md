@@ -66,6 +66,7 @@ If you prefer to run it on your machine:
 3. Open the notebook using Jupyter: jupyter notebook iris_classification_analysis.ipynb
 
 
-👤 Author
+👤 Author : 
 Mehdi Nasiri
+
 
